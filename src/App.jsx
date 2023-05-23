@@ -14,7 +14,7 @@ export default function App() {
     <div className="App">
       <h1>REACT DEV SKILLS</h1>
       <SkillList skills ={skills}/>
-      <hr />
+      
       <NewSkillForm />
     </div>
   );

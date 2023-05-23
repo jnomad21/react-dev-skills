@@ -1,0 +1,20 @@
+.skill-list{
+    border: orange solid 3px;
+    max-width: 220px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px 0 10px;
+}
+.skill-set{
+    text-align: left;
+    color: rgb(12, 118, 124);
+    font-weight: 600;
+}
+.level-set{
+    background-color: rgb(12, 118, 124);
+    color: white;
+    width: 60px;
+    text-align: center;
+    border-radius: 45px;
+    font-size: 14px;
+}

@@ -12,6 +12,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+h1{
+  color: rgb(12, 118, 124);
+}
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +38,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+body{
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }

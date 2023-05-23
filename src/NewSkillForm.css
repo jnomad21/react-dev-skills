@@ -1,0 +1,24 @@
+.formy{
+    border: orange solid 3px;
+    color: rgb(12, 118, 124);
+    font-weight: 600;
+    width: 280px;
+    padding: 10px;
+}
+button{
+    background-color: rgb(12, 118, 124);
+    color: white;
+    width: 260px;
+    
+}
+input{
+    width: 200px;
+    border: orange solid 3px;
+}
+select{
+    width: 210px;
+    border: orange solid 3px;
+    margin: 5px;
+    color: rgb(12, 118, 124);
+    font-weight: 600;
+}
